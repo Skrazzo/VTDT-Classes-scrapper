@@ -13,3 +13,7 @@ bun i
 ```sh
 npm i
 ```
+
+## Example
+
+After running `bun index.js` it genereates [lessons.json](lessons.json)
